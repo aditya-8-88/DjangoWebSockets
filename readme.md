@@ -1,4 +1,4 @@
-# Implementing Websockets Using Django
+# DjangoWebSockets
 
 This project demonstrates the implementation of WebSockets in a Django application, enabling real-time message exchange between users in the same chat room. Redis is used as the message broker, running on Docker.
 
