@@ -23,8 +23,8 @@ This project demonstrates the implementation of WebSockets in a Django applicati
 
 1. **Clone the repository:**
     ```babash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone git@github.com:aditya-8-88/DjangoWebSockets.git
+    cd DjangoWebSockets
     ```
 
 2. **Create and activate a virtual environment:**
